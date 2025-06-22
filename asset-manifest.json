@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/edu-react-shop/static/css/main.95b58c69.css",
+    "main.js": "/edu-react-shop/static/js/main.c65c693c.js",
+    "index.html": "/edu-react-shop/index.html",
+    "main.95b58c69.css.map": "/edu-react-shop/static/css/main.95b58c69.css.map",
+    "main.c65c693c.js.map": "/edu-react-shop/static/js/main.c65c693c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95b58c69.css",
+    "static/js/main.c65c693c.js"
+  ]
+}
