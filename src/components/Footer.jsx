@@ -3,7 +3,7 @@ function Footer() {
     <footer className="page-footer">
       <div className="container">
         © {new Date().getFullYear()} Copyright Orsa 🐺
-        <a className="right" href="#" rel="noreferrer" target="_blank">
+        <a className="right" href="https://github.com/GattaGizmo/edu-react-shop" rel="noreferrer" target="_blank">
           Repo
         </a>
       </div>

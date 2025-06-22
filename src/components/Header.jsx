@@ -12,7 +12,7 @@ function Header({ user, onLoginClick, onLogoutClick }) {
             {user ? (
               <div className="dropdown">
                 <a href="#!" className="account-link">
-                  <i className="material-icons left">account_circle</i>
+                  <li className="material-icons left">account_circle</li>
                   {user.name}
                 </a>
                 <ul className="dropdown-content">
